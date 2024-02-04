@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* Reset some default styles */
+body, h1, h2, p, input, label {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff; /* Set the background color to white */
+    margin: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #fff; /* Set the background color to white */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.signup-content {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: #fff; /* Set the background color to white */
+}
+
+/* Rest of your existing CSS remains the same */
+
+
+.signup-form {
+    margin-bottom: 20px;
+}
+
+.form-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-button {
+    text-align: center;
+}
+
+.form-submit {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background-color: #207cca;
+}
+
+.signup-image {
+    text-align: center;
+}
+
+.signup-image-link {
+    font-size: 14px;
+    color: #888;
+    text-decoration: none;
+}
+
+.signup-image-link:hover {
+    color: #3498db;
+}
+.h22 {
+  color: #008000;
+}
