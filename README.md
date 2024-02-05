@@ -62,7 +62,7 @@ sign in with Google, if anyone wants to sign in with their Google account.
 ![Google login](https://github.com/codewithsuhana/CustomeWeb/assets/151840352/91b0c6e9-e1ab-4d5f-9ac1-bf61d5bef497)
 
 After clicking on login with google button : 
-![Google login[(https://github.com/codewithsuhana/CustomeWeb/assets/151840352/74907dfb-de3e-49fa-9789-9779467df7ee)
+![Google login](https://github.com/codewithsuhana/CustomeWeb/assets/151840352/74907dfb-de3e-49fa-9789-9779467df7ee)
 
 2.Logout feature
 
