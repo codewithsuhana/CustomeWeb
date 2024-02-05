@@ -70,7 +70,7 @@ If user wants to log out from their account :
 ![logout](https://github.com/codewithsuhana/CustomeWeb/assets/151840352/4eb42d10-4f75-4f32-a982-a288f66d15e3)
 
 After clicking on the log out button, the user will be redirected to the login page :
-![logout]("https://github.com/codewithsuhana/CustomeWeb/assets/151840352/064764a4-aaee-43f1-8b94-5b89a2c24ab1")
+![logout](https://github.com/codewithsuhana/CustomeWeb/assets/151840352/e1726ef2-dc46-4686-a12a-a48a61696182)
 
 
 Thank You !
